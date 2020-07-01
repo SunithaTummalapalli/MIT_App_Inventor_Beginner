@@ -1,0 +1,1 @@
+This app has two buttons one for turning on the light and another one for turning off the light.
