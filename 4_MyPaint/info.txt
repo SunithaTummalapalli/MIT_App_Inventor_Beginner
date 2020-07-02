@@ -1,0 +1,3 @@
+This is Paint application which can be used to draw anything using given colors.
+
+Link: ai2.appinventor.mit.edu/?galleryId=5170145941389312
